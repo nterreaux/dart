@@ -1,0 +1,9 @@
+C:\Users\nterr\codes\dart\bin\Debug\dart.exe.config
+C:\Users\nterr\codes\dart\bin\Debug\dart.exe
+C:\Users\nterr\codes\dart\bin\Debug\dart.pdb
+C:\Users\nterr\codes\dart\obj\Debug\dart.csprojAssemblyReference.cache
+C:\Users\nterr\codes\dart\obj\Debug\dart.Properties.Resources.resources
+C:\Users\nterr\codes\dart\obj\Debug\dart.csproj.GenerateResource.cache
+C:\Users\nterr\codes\dart\obj\Debug\dart.csproj.CoreCompileInputs.cache
+C:\Users\nterr\codes\dart\obj\Debug\dart.exe
+C:\Users\nterr\codes\dart\obj\Debug\dart.pdb
